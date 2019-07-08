@@ -52,3 +52,15 @@ Start time: 9:30am
 Finish time: 10:45am
 
 Actual time needed to complete: 1.25hrs
+
+---
+
+Number and name of feature: Feature #2: Modify the contents
+
+Estimate of time needed to complete: 1hr
+
+Start time: 11:10am
+
+Finish time: 
+
+Actual time needed to complete: 1.25hrs
